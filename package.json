@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "js-node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^19.8.0"
+  }
+}
